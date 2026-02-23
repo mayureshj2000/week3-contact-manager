@@ -1,0 +1,18 @@
+{
+  "Sonal": {
+    "phone": "8709124589",
+    "email": "sonal123@gmail.com",
+    "address": "India",
+    "group": "Friends",
+    "created_at": "2026-02-23T05:09:35.656433",
+    "updated_at": "2026-02-23T05:32:07.903563"
+  },
+  "Mayuresh": {
+    "phone": "7865490867",
+    "email": "mayuresh123@gmail.com",
+    "address": "India",
+    "group": "Other",
+    "created_at": "2026-02-23T05:22:25.431938",
+    "updated_at": "2026-02-23T05:22:25.431945"
+  }
+}
